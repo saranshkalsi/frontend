@@ -77,6 +77,7 @@ background-position: top left;
 #elixirs
 {
 	line-height: 1em;
+float: right;
 }
 #footer
 {
@@ -85,4 +86,38 @@ background-position: top left;
 	line-height: normal;
 	margin-top: 30x;
 
+}
+
+.cd
+{
+font-style:italic;
+}
+.artist
+{
+font-weight:bold;
+}
+a:link
+{
+color: green;
+}
+a:visited
+{
+color: red;
+}
+a:hover
+{
+color: yellow;
+}
+
+#elixirs a:link
+{
+color: #007e7e;
+}
+#elixirs a:visited
+{
+color: #333333;
+}
+#elixirs a:hover
+{
+color: #0d5353
 }
