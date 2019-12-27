@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Things i've learned</title>
+  </head>
+  <body>
+    <h1>Things I've learned</h1>
+    <h2>Internet basics</h2>
+    <ol>
+      <li>HTTP requests</li>
+      <li>IP address</li>
+      <li>Servers</li>
+    </ol>
+    <h2>HTML</h2>
+    <ul>
+      <li>Stands for <em>Hyper Text Markup Language</em></li>
+      <li>Lots of tags <ul>
+        <li>Boilerplate <ol>
+          <li>Doctype</li>
+          <li>HTML</li>
+          <li>Head <ol>
+            <li>Title</li>
+          </ol></li>
+          <li>Body</li>
+        </ol></li>
+        <li>Headings</li>
+        <li>Paragraph</li>
+        <li>em</li>
+        <li><strong>strong</strong></li>
+      </ul>
+
+
+
+  </body>
+</html>
