@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Form validation</title>
+  </head>
+  <body>
+    <h1>Register</h1>
+    <form>
+    <label for="First name">First name: <input type="text" name="First" required ></label>
+    <label for="Last name">Last name: <input type="text" name="Last" required></label> <br>
+    <label for="Male" id="Male">Male <input type="radio" name="gender"></label>
+    <label for="Female" id="Female">Female <input type="radio" name="gender"></label>
+    <label for="other">Other <input type="radio" name="gender"></label> <br>
+    <label for="email">Email: <input type="email" name="email" value=""></label>
+    <label for="password">Password: <input type="password" name="pass" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"></label> <br>
+    <label for="birthday">Birthday:
+
+  </label> <br>
+  <p>I agree to terms and conditions <input type="checkbox"> </p>
+  <button type="button" name="button">Submit</button>
+
+    </form>
+
+  </body>
+</html>
