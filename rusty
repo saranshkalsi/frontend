@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Rusty Dog</title>
+  </head>
+  <body>
+    <h1>Rusty Steele</h1>
+    <h3>Hi, I'm a dog. Woof!</h3>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2m5sbbSE73gRmvWa3s5jKO4EY26aeXl38KCIkPG0zqKY-2AcJ" alt="rusty dog">
+  <h2>Some of my favourite places</h2>
+  <ul>
+    <li>The beach</li>
+    <li>The dog park</li>
+    <li>The fire hydrant</li>
+  </ul>
+  <p>make sure to follow me on <a href="https://www.instagram.com/">Instagram</a></p>
+
+
+  </body>
+</html>
