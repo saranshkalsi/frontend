@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Create an account</h1>
+    <h3>It's quick and easy</h3>
+    <div><input type="text" name="First-name" placeholder="First name" required>
+    <input type="text" name="Surname" placeholder="Surname"required> </div>
+
+
+  <p>  <input type="email" name="email or phone number" placeholder="Mobile number or  email address" required>
+       </p>
+      <p>
+        <input type="password" name="password" placeholder="New password" required>
+        </p>
+        <h4>Birthday</h4>
+        <div>
+          <label for="select-choice">
+          <select name="birth-date">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+
+          </select>
+        <select name="birth-month">
+          <option value="january">january</option>
+            <option value="february">february</option>
+              <option value="march">march</option>
+        </select>
+<select name="birth-year">
+  <option value="1996">1994</option>
+  <option value="1995">1994</option>
+  <option value="1994">1995</option>
+
+</select>
+      </label>
+
+        </div>
+        <p>
+
+          <label for="female">female</label>
+          <input type="radio" name="female" required>
+          <label for="male">male</label>
+          <input type="radio" name="male" required>
+          <label for="other">other</label>
+          <input type="radio" name="other" required>
+
+
+</p>
+
+<p>By clicking Sign Up, you agree to our <a href="#">Terms, Data Policy and Cookie Policy</a>.<br> You may receive SMS notifications from us and can opt out at any time.</p>
+<button type="button" name="Sign up">Sign up</button>
+
+
+  </body>
+</html>
