@@ -1,0 +1,34 @@
+h1{
+  text-align: center;
+}
+ body {
+   line-height: 100px;
+
+ }
+ table {
+width: 400px;
+/* border: 2px solid black ; */
+text-align: center;
+
+ }
+ td {
+   /* margin: 20px; */
+   /* border: 2px solid black; */
+ }
+ /* classes that required top border only */
+ .top
+ {
+   border-top: 2px solid black;
+ }
+ /* class that requires both left-right */
+ .lr
+ {
+   border-left: 2px solid black;
+   border-right: 2px solid black;
+ }
+ /* class that require both left,right and top */
+ .both {
+   border-top:2px solid black;
+   border-left: 2px solid black;
+   border-right: 2px solid black;
+ }
