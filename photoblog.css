@@ -1,0 +1,18 @@
+body {
+  background-color: #b39619 ;
+}
+img {
+  width: 30%;
+  float: left;
+  margin: 1.5%;
+
+}
+p {
+  font-family: 'Stoke', serif;
+  font-weight: 800;
+  font-size: 23px;
+  margin-left: 1.5%;
+  text-transform: uppercase;
+  border-bottom:  2px solid black;
+  width: 30%;
+  padding-bottom: 20px;
